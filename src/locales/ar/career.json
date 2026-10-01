@@ -1,0 +1,105 @@
+{
+  "careers": {
+    "hero": {
+      "title": "انضم إلى فريقنا",
+      "subtitle": "ابنِ مسيرتك المهنية في العامر مول - حيث تلتقي الفرص بالتميز",
+      "stats": {
+        "employees": "موظف",
+        "departments": "قسم",
+        "years": "سنوات من التميز"
+      }
+    },
+    "benefits": {
+      "title": "لماذا تعمل معنا",
+      "careerGrowth": {
+        "title": "النمو الوظيفي",
+        "description": "فرص تعليمية مستمرة ومسارات واضحة للتقدم الوظيفي"
+      },
+      "healthBenefits": {
+        "title": "المزايا الصحية",
+        "description": "تأمين صحي شامل وبرامج عافية"
+      },
+      "performanceRewards": {
+        "title": "مكافآت الأداء",
+        "description": "رواتب تنافسية ومكافآت مبنية على الأداء"
+      },
+      "workLifeBalance": {
+        "title": "التوازن بين العمل والحياة",
+        "description": "جداول زمنية مرنة وبيئة عمل داعمة"
+      },
+      "training": {
+        "title": "برامج التدريب",
+        "description": "التطوير المهني ودورات تعزيز المهارات"
+      },
+      "teamCulture": {
+        "title": "ثقافة الفريق",
+        "description": "بيئة تعاونية مع محترفين موهوبين ومتنوعين"
+      }
+    },
+    "listings": {
+      "title": "الوظائف المتاحة",
+      "filters": {
+        "search": "بحث",
+        "searchPlaceholder": "ابحث حسب المسمى الوظيفي أو القسم...",
+        "department": "القسم",
+        "jobType": "نوع الوظيفة",
+        "all": "الكل"
+      },
+      "viewDetails": "عرض التفاصيل والتقديم",
+      "applyBy": "التقديم قبل",
+      "noResults": "لم يتم العثور على وظائف تطابق معاييرك."
+    },
+    "jobDetails": {
+      "department": "القسم",
+      "location": "الموقع",
+      "deadline": "الموعد النهائي للتقديم",
+      "description": "وصف الوظيفة",
+      "responsibilities": "المسؤوليات الرئيسية",
+      "requirements": "المتطلبات",
+      "applyNow": "قدّم الآن"
+    },
+    "application": {
+      "title": "التقديم لوظيفة",
+      "success": {
+        "title": "تم إرسال طلبك بنجاح!",
+        "message": "سنقوم بمراجعة طلبك والتواصل معك قريباً."
+      },
+      "form": {
+        "fullName": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "position": "الوظيفة",
+        "linkedin": "حساب لينكد إن (اختياري)",
+        "linkedinPlaceholder": "https://linkedin.com/in/your-profile",
+        "resume": "تحميل السيرة الذاتية",
+        "resumeHint": "PDF أو DOC أو DOCX (الحد الأقصى 5 ميجابايت)",
+        "coverLetter": "خطاب التقديم (اختياري)",
+        "coverLetterPlaceholder": "أخبرنا لماذا أنت مناسب لهذه الوظيفة...",
+        "required": "*",
+        "back": "رجوع",
+        "submit": "إرسال الطلب"
+      },
+      "errors": {
+        "fullNameRequired": "الاسم الكامل مطلوب",
+        "fullNameMin": "يجب أن يكون الاسم حرفين على الأقل",
+        "emailRequired": "البريد الإلكتروني مطلوب",
+        "emailInvalid": "الرجاء إدخال بريد إلكتروني صحيح",
+        "phoneRequired": "رقم الهاتف مطلوب",
+        "phoneInvalid": "الرجاء إدخال رقم هاتف صحيح",
+        "positionRequired": "الوظيفة مطلوبة",
+        "linkedinInvalid": "الرجاء إدخال رابط لينكد إن صحيح",
+        "linkedinDomain": "يجب أن يكون رابط لينكد إن",
+        "resumeRequired": "السيرة الذاتية مطلوبة",
+        "resumeSize": "يجب أن يكون حجم الملف أقل من 5 ميجابايت",
+        "resumeType": "يُسمح فقط بملفات PDF و DOC و DOCX"
+      }
+    },
+    "contact": {
+      "title": "هل لديك أسئلة حول الوظائف؟",
+      "subtitle": "فريق الموارد البشرية لدينا هنا لمساعدتك في أي أسئلة حول فرص العمل في العامر مول.",
+      "email": "hr@alamermall.com",
+      "phone": "+966 13 XXX XXXX",
+      "hours": "الأحد - الخميس، 9:00 صباحاً - 5:00 مساءً"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+@import "tailwindcss";
+
+/* ejeAlamer Font - Custom Sans Serif for Arabic & English */
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Bold - 24 Jul 2016 - 2.otf") format("opentype");
+  font-weight: 400; /* Use Bold as Regular weight for better readability */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Bold - 24 Jul 2016 - 2.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Black - 24 Jul 2016 - 1.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Brand Colors - Alamer Mall */
+@theme {
+  --color-primary: #44273a;
+  --color-primary-hover: #5a3550;
+  --color-primary-light: #6b4566;
+
+  --color-secondary: #ef7622;
+  --color-secondary-hover: #d66819;
+  --color-secondary-light: #f28e45;
+
+  --color-accent: #fedd3d;
+  --color-accent-hover: #fdd520;
+  --color-accent-light: #fee76a;
+
+  /* Font Family - ejeAlamer for entire project (Arabic & English) */
+  --font-family-sans: "ejeAlamer", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-family-display: "ejeAlamer", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Apply font globally to all elements */
+* {
+  font-family:
+    "ejeAlamer",
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+}
+
+body {
+  font-family:
+    "ejeAlamer",
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+}
+
+/* Remove focus outline globally for mouse users */
+*:focus:not(:focus-visible) {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Ping animation - slower version for glint effect */
+@keyframes ping-slow {
+  0% {
+    transform: scale(1);
+    opacity: 0.4;
+  }
+  75% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+.animate-ping-slow {
+  animation: ping-slow 3s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Confetti animation for Smarvy page */
+@keyframes confetti {
+  0% {
+    transform: translateY(0) rotateZ(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotateZ(720deg);
+    opacity: 0;
+  }
+}
+
+.animate-confetti {
+  animation: confetti linear forwards;
+}
+
+/* Slow bounce animation */
+@keyframes bounce-slow {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-bounce-slow {
+  animation: bounce-slow 3s ease-in-out infinite;
+}
+
+/* Party lights ring animation for Smarvy logo */
+@keyframes party-lights {
+  0% {
+    box-shadow:
+      0 0 20px #ff00ff,
+      0 0 40px #ff00ff,
+      0 0 60px #ff00ff;
+  }
+  25% {
+    box-shadow:
+      0 0 20px #00ffff,
+      0 0 40px #00ffff,
+      0 0 60px #00ffff;
+  }
+  50% {
+    box-shadow:
+      0 0 20px #ffff00,
+      0 0 40px #ffff00,
+      0 0 60px #ffff00;
+  }
+  75% {
+    box-shadow:
+      0 0 20px #ff6b00,
+      0 0 40px #ff6b00,
+      0 0 60px #ff6b00;
+  }
+  100% {
+    box-shadow:
+      0 0 20px #ff00ff,
+      0 0 40px #ff00ff,
+      0 0 60px #ff00ff;
+  }
+}
+
+.party-lights-ring {
+  animation: party-lights 2s linear infinite;
+}
+
+/* Neon glow animation */
+@keyframes neon-glow {
+  0%,
+  100% {
+    text-shadow:
+      0 0 10px currentColor,
+      0 0 20px currentColor,
+      0 0 30px currentColor;
+  }
+  50% {
+    text-shadow:
+      0 0 20px currentColor,
+      0 0 30px currentColor,
+      0 0 40px currentColor;
+  }
+}
+
+.neon-text {
+  animation: neon-glow 1.5s ease-in-out infinite;
+}
+
+/* RGB Lighting effects for Smarvy page */
+:root {
+  --rgb-speed: 3s;
+}
+
+@keyframes rgb-border {
+  0% {
+    border-color: #ff0000;
+    box-shadow:
+      0 0 20px #ff0000,
+      inset 0 0 20px rgba(255, 0, 0, 0.2);
+  }
+  16.66% {
+    border-color: #ff8800;
+    box-shadow:
+      0 0 20px #ff8800,
+      inset 0 0 20px rgba(255, 136, 0, 0.2);
+  }
+  33.33% {
+    border-color: #ffff00;
+    box-shadow:
+      0 0 20px #ffff00,
+      inset 0 0 20px rgba(255, 255, 0, 0.2);
+  }
+  50% {
+    border-color: #00ff00;
+    box-shadow:
+      0 0 20px #00ff00,
+      inset 0 0 20px rgba(0, 255, 0, 0.2);
+  }
+  66.66% {
+    border-color: #00ffff;
+    box-shadow:
+      0 0 20px #00ffff,
+      inset 0 0 20px rgba(0, 255, 255, 0.2);
+  }
+  83.33% {
+    border-color: #0088ff;
+    box-shadow:
+      0 0 20px #0088ff,
+      inset 0 0 20px rgba(0, 136, 255, 0.2);
+  }
+  100% {
+    border-color: #ff0000;
+    box-shadow:
+      0 0 20px #ff0000,
+      inset 0 0 20px rgba(255, 0, 0, 0.2);
+  }
+}
+
+@keyframes rgb-glow {
+  0% {
+    box-shadow:
+      0 0 40px #ff0000,
+      0 0 80px #ff0000;
+  }
+  16.66% {
+    box-shadow:
+      0 0 40px #ff8800,
+      0 0 80px #ff8800;
+  }
+  33.33% {
+    box-shadow:
+      0 0 40px #ffff00,
+      0 0 80px #ffff00;
+  }
+  50% {
+    box-shadow:
+      0 0 40px #00ff00,
+      0 0 80px #00ff00;
+  }
+  66.66% {
+    box-shadow:
+      0 0 40px #00ffff,
+      0 0 80px #00ffff;
+  }
+  83.33% {
+    box-shadow:
+      0 0 40px #0088ff,
+      0 0 80px #0088ff;
+  }
+  100% {
+    box-shadow:
+      0 0 40px #ff0000,
+      0 0 80px #ff0000;
+  }
+}
+
+.rgb-border {
+  animation: rgb-border var(--rgb-speed, 3s) linear infinite;
+}
+
+.rgb-glow {
+  animation: rgb-glow var(--rgb-speed, 3s) linear infinite;
+}

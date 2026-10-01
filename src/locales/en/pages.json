@@ -1,0 +1,1014 @@
+{
+  "home": {
+    "hero": {
+      "title": "Welcome to Alamer Mall",
+      "subtitle": "Your premier shopping and entertainment destination in Al-Ahssa. Discover world-class brands, exquisite dining, and unforgettable experiences.",
+      "exploreStores": "Explore Stores",
+      "aboutUs": "About Us"
+    },
+    "banners": {
+      "smarvy": {
+        "title": "Welcome to Smarvy Entertainment",
+        "description": "Experience endless fun and excitement at Smarvy, Alamer Mall's premier entertainment destination. From thrilling games and attractions to family-friendly activities, Smarvy offers unforgettable entertainment for all ages.",
+        "button": "Discover Smarvy"
+      },
+      "hypermarket": {
+        "title": "Alamer Hypermarket",
+        "description": "Your one-stop destination for fresh groceries, household essentials, and quality products at unbeatable prices. Experience convenient shopping with a vast selection of local and international brands.",
+        "button": "Visit Hypermarket"
+      }
+    },
+    "sections": {
+      "title": "Explore Alamer Mall",
+      "subtitle": "Discover shopping, dining, and entertainment all in one place",
+      "stores": "Stores",
+      "storesDesc": "Discover the latest fashion trends and styles",
+      "restaurants": "Restaurants",
+      "restaurantsDesc": "Enjoy delicious meals from various cuisines",
+      "entertainment": "Entertainment",
+      "entertainmentDesc": "Fun activities for the whole family",
+      "hypermarket": "Hypermarket",
+      "hypermarketDesc": "Fresh groceries and daily essentials"
+    },
+    "events": {
+      "title": "Featured Events",
+      "subtitle": "Don't miss out on exciting events and promotions",
+      "viewAll": "View All Events"
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "subtitle": "Our commitment to excellence drives everything we do",
+      "vision": "Our Vision",
+      "visionText": "To be the premier shopping and entertainment destination in the Eastern Province, setting the standard for excellence in retail experiences.",
+      "mission": "Our Mission",
+      "missionText": "To provide an unparalleled shopping experience by offering world-class brands, exceptional service, and a welcoming environment for all visitors.",
+      "values": "Our Values",
+      "valuesText": "Excellence, Innovation, Customer Focus, Community, and Sustainability guide our decisions and shape our culture."
+    },
+    "gallery": {
+      "title": "Photo Gallery",
+      "subtitle": "Experience the beauty of Alamer Mall",
+      "viewAll": "View All Photos"
+    },
+    "whyVisit": {
+      "title": "Why Visit Alamer Mall?",
+      "subtitle": "Experience world-class shopping and entertainment in Al-Ahssa",
+      "stores": "Stores & Restaurants",
+      "storesDesc": "A wide variety of international and local brands",
+      "floors": "Floors",
+      "floorsDesc": "From basement parking to rooftop entertainment",
+      "daysAWeek": "Days a Week",
+      "daysDesc": "Open daily for your convenience"
+    },
+    "business": {
+      "title": "Business Opportunities",
+      "subtitle": "Join the Alamer Mall family and grow your business",
+      "rental": "Rental Opportunities",
+      "rentalDesc": "Premium retail spaces available for lease in prime locations",
+      "rentalButton": "Learn More",
+      "investment": "Investment Opportunities",
+      "investmentDesc": "Partner with us and be part of our success story",
+      "investmentButton": "Explore",
+      "careers": "Join Our Team",
+      "careersDesc": "Exciting career opportunities in retail, hospitality, and management",
+      "careersButton": "View Jobs"
+    },
+    "cta": {
+      "title": "Ready to Explore?",
+      "subtitle": "Visit Alamer Mall today and discover an unforgettable shopping experience",
+      "viewMap": "View Mall Map",
+      "contact": "Contact Us"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Alamer Mall",
+      "subtitle": "Eastern Province's premier shopping and entertainment destination, serving our community for over a decade"
+    },
+    "whoWeAre": {
+      "title": "What Drives Us",
+      "description": "Alamer Mall is more than just a shopping center – we are a vibrant community hub that brings together retail, dining, entertainment, and lifestyle experiences under one roof. Located in the heart of Al-Ahssa, we pride ourselves on offering a world-class shopping experience that caters to the diverse needs of our community.",
+      "mission": {
+        "title": "Our Mission",
+        "description": "To provide an exceptional shopping and entertainment experience that brings families together and creates lasting memories while supporting local and international businesses."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be the premier shopping destination in the Eastern Province, recognized for excellence in retail, dining, and entertainment, while contributing to the community's economic growth."
+      },
+      "values": {
+        "title": "Our Values",
+        "description": "Customer satisfaction, quality service, innovation, community engagement, and sustainable growth guide everything we do at Alamer Mall."
+      }
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "journeyTitle": "Our Journey",
+      "description": "Since our establishment, Alamer Mall has been committed to redefining the shopping experience in the Eastern Province. With over 150 stores, restaurants, and entertainment venues, we have become the go-to destination for families, shoppers, and entertainment seekers alike.",
+      "paragraph1": "Located in the heart of Al Mubarraz, Alamer Mall has been a cornerstone of the community. What began as a vision to create a world-class shopping destination has grown into much more – a place where families gather, friendships flourish, and memories are made.",
+      "paragraph2": "Spanning five floors and featuring a diverse mix of stores and dining options, Alamer Mall offers an unparalleled shopping experience. From fashion and electronics to groceries and dining, we provide everything our community needs under one roof.",
+      "paragraph3": "Our commitment goes beyond retail. We actively support local businesses, create employment opportunities, and contribute to the economic development of the Eastern Province. Through regular events, seasonal celebrations, and community initiatives, we strive to be more than just a mall – we aim to be a vital part of the community fabric.",
+      "milestones": {
+        "opening": {
+          "title": "Grand Opening",
+          "description": "Alamer Mall opens its doors, welcoming the community to a new shopping experience"
+        },
+        "storesExpansion": {
+          "title": "Retail & Dining Growth",
+          "description": "Expanded our collection of stores and dining options, bringing popular brands and restaurants to the community"
+        },
+        "entertainment": {
+          "title": "Entertainment Development",
+          "description": "Began construction of the entertainment zone to provide family-friendly activities and experiences"
+        },
+        "smarvyOpening": {
+          "title": "Smarvy Spot Launch",
+          "description": "Opened Smarvy entertainment center on November 11, 2025, featuring arcade games, rides, and family activities"
+        }
+      }
+    },
+    "stats": {
+      "stores": "Stores & Brands",
+      "visitors": "Annual Visitors",
+      "floors": "Floors",
+      "hours": "Hours Daily",
+      "parking": "Parking Spaces"
+    },
+    "awards": {
+      "title": "Awards & Recognition",
+      "subtitle": "Our commitment to excellence has been recognized by industry leaders and our community",
+      "bestMall": {
+        "title": "Best Shopping Mall",
+        "org": "Eastern Province Awards",
+        "year": "2023"
+      },
+      "greenBuilding": {
+        "title": "Green Building Certified",
+        "org": "Sustainability Council",
+        "year": "2023"
+      },
+      "customerChoice": {
+        "title": "Customer Choice Award",
+        "org": "Retail Excellence",
+        "year": "2022"
+      }
+    },
+    "cta": {
+      "title": "Experience Alamer Mall Today",
+      "subtitle": "Visit us and discover why we're the Eastern Province's favorite shopping destination",
+      "findUs": "Visit Us",
+      "getInTouch": "Get in Touch"
+    }
+  },
+  "sections": {
+    "hero": {
+      "title": "Mall Sections",
+      "subtitle": "Explore our diverse collection of stores and services"
+    },
+    "filters": {
+      "searchPlaceholder": "Search stores...",
+      "allFloors": "All Floors",
+      "allCategories": "All Categories"
+    },
+    "noResults": "No stores found matching your criteria",
+    "storeCount": "{{count}} stores found"
+  },
+  "storesData": {
+    "alAmerHypermarket": {
+      "name": "Al-Amer Hypermarket",
+      "description": "A hypermarket offering a wide range of basic and modern products. Including fresh and canned food, household essentials, cosmetics, accessories, office supplies, gifts, and hobbies. Everything you need for a complete shopping experience in one place."
+    },
+    "midi": {
+      "name": "MIDI",
+      "description": "A multi-category store offering a complete shopping experience with diverse products that suit all tastes."
+    },
+    "najmahJewelry": {
+      "name": "Najmah Jewelry",
+      "description": "A store offering an exquisite selection of gold and silver jewelry, combining quality with modern and classic designs."
+    },
+    "zafranThreads": {
+      "name": "Saffron Threads",
+      "description": "As a specialty shop, it offers the finest types of saffron, with carefully selected products to add a luxurious touch and authentic flavor to every recipe. An excellent experience for lovers of delicate flavors and quality natural ingredients."
+    },
+    "bokhamsin": {
+      "name": "Bukhamseen",
+      "description": "A store offering a wide range of modern and elegant furnishings, with designs that combine elegance and comfort to transform every space in your home. Reflects your special taste and high quality in every detail."
+    }
+  },
+  "restaurantsData": {
+    "poshak": {
+      "name": "Poshak",
+      "description": "Offers a unique dining experience combining traditional flavors with modern touches, with warm and comfortable ambiance that makes every meal an unforgettable experience."
+    },
+    "cornShack": {
+      "name": "corn shack",
+      "description": "Offers crispy corn and snacks with unforgettable taste. We use the finest types of crispy corn for lovers of delicate flavors and quality natural ingredients."
+    },
+    "laCasaPasta": {
+      "name": "La Casa Pasta",
+      "description": "Offers the finest Italian pasta dishes with fresh ingredients in a comfortable atmosphere that makes every meal a unique experience for the whole family. Every visit feels like authentic Italian atmosphere."
+    },
+    "taraf": {
+      "name": "Taraf",
+      "description": "A cafe offering an elegant coffee experience and diverse beverages in a warm and comfortable atmosphere. Every visit is a moment of relaxation and enjoyment with friendly service."
+    },
+    "wacafe": {
+      "name": "Wacafe",
+      "description": "A cafe offering a unique coffee experience and innovative beverages, with a comfortable atmosphere that allows for relaxation and enjoyment of every moment."
+    },
+    "shaiji": {
+      "name": "Shaiji",
+      "description": "A shop offering the best types of tea, including Karkadeh and Karak, with rich and distinctive flavors. Visitors enjoy an authentic and delicious tea experience with every visit."
+    }
+  },
+  "entertainmentData": {
+    "smarvySpot": {
+      "name": "Smarvy Spot",
+      "description": "Experience endless fun and excitement at Smarvy, Alamer Mall's premier entertainment destination. From thrilling games and attractions to family-friendly activities, Smarvy offers unforgettable entertainment for all ages.",
+      "hours": "Every Day: 3:30 PM - 12:00 AM"
+    },
+    "gamesIsland": {
+      "name": "Kids Island",
+      "description": "Premium games island offering a diverse range of fun activities for all age groups. Features various games and exciting experiences to ensure entertainment for the whole family.",
+      "hours": "Every Day: 3:30 PM - 12:00 AM"
+    }
+  },
+  "hypermarketData": {
+    "freshProduce": {
+      "name": "Fresh Produce",
+      "description": "Farm-fresh fruits and vegetables delivered daily. Organic options available. Support local farmers while enjoying the freshest produce in the region."
+    },
+    "bakeryDeli": {
+      "name": "Bakery & Deli",
+      "description": "Freshly baked bread, pastries, and deli meats prepared on-site daily. Custom cakes and party platters available for special occasions."
+    },
+    "electronics": {
+      "name": "Electronics",
+      "description": "Latest smartphones, laptops, home appliances, and electronics at competitive prices. Expert advice and warranty support available."
+    },
+    "homeLiving": {
+      "name": "Home & Living",
+      "description": "Everything for your home including furniture, décor, kitchenware, bedding, and cleaning supplies. Create your dream living space."
+    },
+    "healthBeauty": {
+      "name": "Health & Beauty",
+      "description": "Wide selection of cosmetics, skincare, haircare, vitamins, and wellness products. Professional pharmacists available for consultations."
+    }
+  },
+  "events": {
+    "hero": {
+      "title": "Events & Promotions",
+      "subtitle": "Discover exciting events and exclusive offers"
+    },
+    "activeNow": "Active Now",
+    "learnMore": "Learn More",
+    "shareEvent": "Share Event",
+    "duration": "Duration",
+    "liveNow": "Live Now",
+    "endsIn": "Ends In",
+    "addToCalendar": "Add to Calendar",
+    "calendar": "Calendar",
+    "filters": {
+      "upcoming": "Upcoming",
+      "ongoing": "Ongoing",
+      "past": "Past"
+    },
+    "list": {
+      "summerSale": {
+        "title": "Summer Sale 2025",
+        "description": "Get ready for the biggest shopping event of the season! Enjoy up to 70% off on selected items across all fashion stores. From luxury brands to everyday essentials, find incredible deals on clothing, accessories, shoes, and more. Don't miss this opportunity to refresh your wardrobe with the latest trends at unbeatable prices.",
+        "location": "All Fashion Stores"
+      },
+      "kidsFestival": {
+        "title": "Kids Festival",
+        "description": "Bring your little ones for a day filled with fun, laughter, and excitement! Our Kids Festival features interactive games, face painting, magic shows, balloon artists, bouncy castles, and special performances. Educational workshops and creative activities will keep children entertained while parents can enjoy shopping. Special prizes and giveaways throughout the day!",
+        "location": "Ground Floor Plaza"
+      },
+      "foodWeek": {
+        "title": "International Food Week",
+        "description": "Embark on a culinary journey around the world without leaving Alamer Mall! Experience authentic cuisines from Italy, Japan, India, Mexico, France, and many more countries. Meet celebrity chefs, attend live cooking demonstrations, participate in food tasting sessions, and enjoy special menu items created exclusively for this event. Every day features a different country's cuisine with traditional music and cultural performances.",
+        "location": "Food Court - 2nd Floor"
+      },
+      "techExpo": {
+        "title": "Tech & Gaming Expo 2025",
+        "description": "Technology enthusiasts and gamers, this is your event! Explore the latest gadgets, gaming consoles, virtual reality experiences, and cutting-edge electronics. Try out upcoming game releases, compete in esports tournaments with cash prizes, meet gaming influencers, and attend tech talks by industry experts. Exclusive expo discounts on all electronics and gaming accessories!",
+        "location": "Third Floor Entertainment Zone"
+      },
+      "ramadanMarket": {
+        "title": "Ramadan Night Market",
+        "description": "Experience the magic of Ramadan with our special night market featuring traditional crafts, authentic Middle Eastern cuisine, and live cultural performances. Shop for unique handmade items, enjoy special Iftar offers at participating restaurants, and immerse yourself in the festive atmosphere. Traditional music, henna artists, and family-friendly activities available every evening.",
+        "location": "Outdoor Plaza & Food Court"
+      },
+      "fashionWeek": {
+        "title": "Fashion Week Showcase",
+        "description": "Witness the hottest fashion trends of the season on the runway! Local and international designers present their latest collections in a spectacular fashion show. Enjoy exclusive previews of new collections, meet fashion designers, participate in styling workshops, and take advantage of special Fashion Week discounts at all participating boutiques.",
+        "location": "Ground Floor Central Atrium"
+      },
+      "blackFriday": {
+        "title": "Black Friday Mega Sale",
+        "description": "The most anticipated shopping event of the year is here! Massive discounts up to 80% off on everything from electronics to fashion, home goods to beauty products. Early bird specials start at 6 AM with doorbusters and limited quantity items. Extended mall hours, special midnight madness deals, and gift with purchase offers at select stores.",
+        "location": "All Stores - All Floors"
+      },
+      "winterWonderland": {
+        "title": "Winter Wonderland Experience",
+        "description": "Transform your mall visit into a magical winter adventure! Our Winter Wonderland features a real ice skating rink, snow play area for kids, festive decorations throughout the mall, and photo opportunities with Santa Claus. Enjoy hot chocolate stations, seasonal treats, holiday market stalls with unique gift ideas, and live performances of holiday classics.",
+        "location": "All Floors & Rooftop Ice Rink"
+      },
+      "healthFair": {
+        "title": "Health & Wellness Fair",
+        "description": "Prioritize your wellbeing at our comprehensive Health & Wellness Fair! Free health screenings, fitness demonstrations, nutrition consultations, yoga and meditation sessions, and wellness workshops throughout the day. Meet health experts, try new fitness classes, sample organic foods, and discover wellness products.",
+        "location": "Community Hall - Ground Floor"
+      },
+      "artFestival": {
+        "title": "Art & Culture Festival",
+        "description": "Celebrate creativity and culture at our Art Festival featuring local and regional artists! Browse and purchase original artworks, watch live painting demonstrations, participate in art workshops for all ages, and enjoy cultural performances including traditional dance and music. Interactive installations throughout the mall create an immersive artistic experience.",
+        "location": "Ground Floor Gallery Space"
+      }
+    },
+    "details": {
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "description": "Description",
+      "terms": "Terms & Conditions"
+    },
+    "active": "Active Now",
+    "expired": "Expired",
+    "comingSoon": "Coming Soon"
+  },
+  "maps": {
+    "hero": {
+      "title": "Mall Maps",
+      "subtitle": "Find your way around Alamer Mall"
+    },
+    "selectFloor": "Select Floor",
+    "facilities": "Facilities",
+    "restrooms": "Restrooms",
+    "elevators": "Elevators",
+    "escalators": "Escalators",
+    "parking": "Parking",
+    "exits": "Emergency Exits",
+    "information": "Information Desk",
+    "prayer": "Prayer Room"
+  },
+  "gallery": {
+    "hero": {
+      "title": "Photo Gallery",
+      "subtitle": "Explore Alamer Mall through images"
+    },
+    "categories": {
+      "all": "All Photos",
+      "exterior": "Exterior",
+      "interior": "Interior",
+      "stores": "Stores",
+      "events": "Events",
+      "dining": "Dining",
+      "parking": "Parking",
+      "hypermarket": "Hypermarket",
+      "waterFountain": "Water Fountain",
+      "smarvy": "Smarvy"
+    },
+    "loadMore": "Load More",
+    "remaining": "remaining"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help. Reach out to us anytime."
+    },
+    "form": {
+      "title": "Send us a Message",
+      "subtitle": "Fill out the form below and we'll get back to you as soon as possible"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "addressValue": "Alamer Mall, Al-Ahssa, Saudi Arabia",
+      "phone": "Phone",
+      "phoneValue": "+966 XX XXX XXXX",
+      "email": "Email",
+      "emailValue": "info@alamermall.com",
+      "hours": "Working Hours",
+      "hoursValue": "Saturday - Wednesday: 10:00 AM - 10:00 PM\nThursday - Friday: 10:00 AM - 11:00 PM"
+    },
+    "location": {
+      "title": "Our Location",
+      "directions": "Get Directions"
+    },
+    "visit": {
+      "title": "Visit Our Mall",
+      "subtitle": "Located in Almubaraz, AlAhsa, Alsharqiyah region"
+    },
+    "directions": {
+      "title": "Directions",
+      "fromRiyadh": "From Riyadh: Take Highway 40 East to AlAhsa",
+      "fromKhobar": "From Khobar: Head west on King Fahd Road",
+      "parking": "Ample free parking available at all entrances"
+    },
+    "departments": {
+      "title": "Contact by Department",
+      "subtitle": "Reach out to the right team for faster assistance"
+    },
+    "social": {
+      "title": "Connect With Us",
+      "subtitle": "Follow us on social media for the latest updates, events, and promotions"
+    }
+  },
+  "stores": {
+    "hero": {
+      "title": "Stores",
+      "subtitle": "Discover our collection of premium brands and boutiques"
+    },
+    "filters": {
+      "searchPlaceholder": "Search stores...",
+      "allFloors": "All Floors",
+      "allCategories": "All Categories",
+      "filter": "Filter",
+      "store": "store",
+      "stores": "stores"
+    },
+    "categories": {
+      "fashion": "Fashion",
+      "electronics": "Electronics",
+      "beauty": "Beauty & Cosmetics",
+      "sports": "Sports & Outdoor",
+      "homeDecor": "Home & Decor",
+      "jewelry": "Jewelry & Accessories",
+      "books": "Books & Stationery",
+      "toys": "Toys & Kids"
+    },
+    "storeCard": {
+      "floor": "Floor",
+      "viewDetails": "View Details",
+      "open": "Open",
+      "closed": "Closed"
+    },
+    "noResults": "No stores found matching your criteria",
+    "loadMore": "Load More",
+    "showLess": "Show Less"
+  },
+  "restaurants": {
+    "hero": {
+      "title": "Restaurants & Dining",
+      "subtitle": "Experience diverse cuisines from around the world"
+    },
+    "filters": {
+      "searchPlaceholder": "Search restaurants...",
+      "allFloors": "All Floors",
+      "allCuisines": "All Cuisines",
+      "filter": "Filter",
+      "restaurant": "restaurant",
+      "restaurants": "restaurants"
+    },
+    "cuisines": {
+      "italian": "Italian",
+      "chinese": "Chinese",
+      "indian": "Indian",
+      "arabic": "Arabic",
+      "american": "American",
+      "japanese": "Japanese",
+      "mexican": "Mexican",
+      "fast food": "Fast Food",
+      "cafe": "Café"
+    },
+    "card": {
+      "cuisine": "Cuisine",
+      "floor": "Floor",
+      "viewMenu": "View Menu"
+    },
+    "noResults": "No restaurants found matching your criteria",
+    "loadMore": "Load More",
+    "showLess": "Show Less"
+  },
+  "entertainment": {
+    "hero": {
+      "title": "Entertainment",
+      "subtitle": "Fun activities and entertainment for all ages"
+    },
+    "description": "Discover exciting entertainment options at Alamer Mall. From gaming zones to family activities, there's something for everyone.",
+    "featured": {
+      "title": "Featured Attractions",
+      "subtitle": "Popular entertainment destinations"
+    },
+    "activities": {
+      "gaming": "Gaming Zone",
+      "cinema": "Cinema",
+      "kids": "Kids Play Area",
+      "arcade": "Arcade Games",
+      "vr": "Virtual Reality"
+    },
+    "loadMore": "Load More",
+    "showLess": "Show Less"
+  },
+  "smarvy": {
+    "hero": {
+      "title": "Smarvy Spot",
+      "subtitle": "Ultimate Fun Zone"
+    },
+    "cta": {
+      "gallery": "View Gallery",
+      "explore": "Explore Fun"
+    },
+    "info": {
+      "location": "Location",
+      "locationValue": "Second Floor",
+      "hours": "Open",
+      "hoursValue": "Every Day: 3:30 PM - 12:00 AM",
+      "category": "Type",
+      "categoryValue": "Fun & Games"
+    },
+    "about": {
+      "title": "About Smarvy Spot",
+      "description": "Experience endless fun at Alamer Mall's premier entertainment destination! Smarvy Spot features exciting arcade games where you can win amazing prizes, 5 thrilling rides, and a spectacular roller coaster coming soon. Fun for the whole family with unforgettable entertainment for all ages!"
+    },
+    "features": {
+      "rides": {
+        "title": "5 Fun Rides",
+        "description": "Enjoy 5 exciting rides perfect for all ages! Plus, a thrilling roller coaster coming soon from the manufacturer."
+      },
+      "arcade": {
+        "title": "Arcade Games",
+        "description": "Play exciting arcade games and win amazing prizes! Fun challenges for players of all skill levels."
+      },
+      "family": {
+        "title": "Family Fun",
+        "description": "Perfect activities for the whole family! Create unforgettable memories together with fun for all ages."
+      },
+      "prizes": {
+        "title": "Win Prizes",
+        "description": "Test your skills and win exciting prizes! Take home awesome rewards from our arcade games."
+      }
+    },
+    "gallery": {
+      "title": "Photo Gallery",
+      "subtitle": "Capture the Excitement"
+    },
+    "stats": {
+      "rides": "Fun Rides",
+      "arcade": "Arcade Games",
+      "prizes": "Of Prizes",
+      "guests": "Happy Guests"
+    },
+    "comingSoon": {
+      "badge": "Coming Soon",
+      "title": "Smarvy Online!",
+      "description": "Get ready for the ultimate digital experience! Book your tickets online, check live wait times, earn rewards, and unlock exclusive digital prizes. The fun is about to go ONLINE!",
+      "button": "Website Launching Soon",
+      "features": {
+        "booking": "Online Booking",
+        "updates": "Live Updates",
+        "rewards": "Rewards Program",
+        "prizes": "Digital Prizes"
+      }
+    }
+  },
+  "hypermarket": {
+    "hero": {
+      "badge": "Premium Grocery Shopping",
+      "title": "Alamer Hypermarket",
+      "subtitle": "Your one-stop destination for fresh groceries, household essentials, and quality products at unbeatable prices",
+      "exploreCTA": "Explore Products",
+      "shopOnlineCTA": "Shop Online"
+    },
+    "features": {
+      "sectionTitle": "Why Shop With Us",
+      "sectionSubtitle": "Experience the best in grocery shopping with our commitment to quality and value",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Carefully selected products meeting the highest quality standards"
+      },
+      "fresh": {
+        "title": "Daily Fresh Products",
+        "description": "Fresh produce, meats, and bakery items delivered daily"
+      },
+      "variety": {
+        "title": "Wide Selection",
+        "description": "Thousands of local and international products to choose from"
+      },
+      "prices": {
+        "title": "Best Prices",
+        "description": "Competitive pricing with regular offers and promotions"
+      }
+    },
+    "categories": {
+      "sectionTitle": "Sections",
+      "sectionSubtitle": "Explore our diverse range of departments tailored to meet all your needs",
+      "freshFood": {
+        "name": "Fresh Food",
+        "description": "Farm-fresh vegetables, fruits, dairy, meats, and seafood"
+      },
+      "bakery": {
+        "name": "Bakery & Deli",
+        "description": "Freshly baked bread, pastries, and premium deli selections"
+      },
+      "grocery": {
+        "name": "Grocery Essentials",
+        "description": "Rice, pasta, canned goods, oils, and daily necessities"
+      },
+      "organic": {
+        "name": "Organic & Health",
+        "description": "Organic products, supplements, and healthy alternatives"
+      },
+      "beauty": {
+        "name": "Beauty & Personal Care",
+        "description": "Cosmetics, skincare, haircare, and wellness products"
+      },
+      "babyCare": {
+        "name": "Baby Care",
+        "description": "Baby food, diapers, formula, and childcare essentials"
+      },
+      "household": {
+        "name": "Household & Cleaning",
+        "description": "Cleaning supplies, detergents, and home essentials"
+      },
+      "electronics": {
+        "name": "Electronics & Appliances",
+        "description": "Kitchen appliances, gadgets, and electronic accessories"
+      }
+    },
+    "onlineShop": {
+      "imageTitle": "Shop From Home",
+      "title": "Shop Online at Alamer Market",
+      "description": "Get all your groceries delivered right to your doorstep. Browse thousands of products, enjoy exclusive online offers, and experience convenient shopping from the comfort of your home.",
+      "benefit1": "Wide selection of products with detailed descriptions",
+      "benefit2": "Fast and reliable home delivery service",
+      "benefit3": "Exclusive online deals and special promotions",
+      "cta": "Visit Alamer Market Online"
+    },
+    "gallery": {
+      "title": "Inside Our Hypermarket",
+      "subtitle": "Take a virtual tour of our modern facilities and discover quality shopping"
+    },
+    "contact": {
+      "title": "Visit Us Today",
+      "subtitle": "Find us on the ground floor of Alamer Mall",
+      "location": "Location",
+      "address": "Ground Floor, Alamer Mall, Al-Ahssa",
+      "hours": "Opening Hours",
+      "hoursDetail": "Daily: 6:00 AM - 2:00 AM",
+      "phone": "Contact"
+    }
+  },
+  "rental": {
+    "hero": {
+      "title": "Rental Opportunities",
+      "subtitle": "Premium retail spaces in a thriving shopping destination"
+    },
+    "why": {
+      "title": "Why Rent at Alamer Mall",
+      "location": "Prime Location",
+      "locationDesc": "Strategic location in Al-Ahssa with high foot traffic",
+      "footfall": "High Footfall",
+      "footfallDesc": "Thousands of daily visitors",
+      "facilities": "Modern Facilities",
+      "facilitiesDesc": "State-of-the-art infrastructure and amenities",
+      "support": "Business Support",
+      "supportDesc": "Dedicated support team for tenants"
+    },
+    "spaces": {
+      "title": "Available Spaces",
+      "retail": "Retail Units",
+      "kiosk": "Kiosks",
+      "food": "Food Court Spaces",
+      "anchor": "Anchor Stores"
+    },
+    "inquiry": {
+      "title": "Submit Your Inquiry",
+      "subtitle": "Fill out the form below and our team will contact you",
+      "success": "Thank you! We'll contact you soon.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "investment": {
+    "hero": {
+      "title": "Investment Opportunities",
+      "subtitle": "Partner with us and be part of our success"
+    },
+    "overview": {
+      "title": "Investment Overview",
+      "description": "Alamer Mall offers attractive investment opportunities in one of the fastest-growing retail destinations in the Eastern Province."
+    },
+    "benefits": {
+      "title": "Investment Benefits",
+      "returns": "Strong Returns",
+      "returnsDesc": "Competitive rental yields and capital appreciation",
+      "growth": "Growth Potential",
+      "growthDesc": "Expanding market with increasing demand",
+      "reputation": "Established Brand",
+      "reputationDesc": "Trusted name in retail and entertainment",
+      "management": "Professional Management",
+      "managementDesc": "Expert property management services"
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Contact our investment team to learn more"
+    }
+  },
+  "careers": {
+    "hero": {
+      "title": "Join Our Team",
+      "subtitle": "Build your career with Alamer Mall"
+    },
+    "why": {
+      "title": "Why Work With Us",
+      "growth": "Career Growth",
+      "growthDesc": "Opportunities for advancement and development",
+      "environment": "Positive Environment",
+      "environmentDesc": "Supportive and inclusive workplace",
+      "benefits": "Great Benefits",
+      "benefitsDesc": "Competitive salary and benefits package",
+      "training": "Training Programs",
+      "trainingDesc": "Continuous learning and skill development"
+    },
+    "openings": {
+      "title": "Current Openings",
+      "department": "Department",
+      "type": "Type",
+      "location": "Location",
+      "apply": "Apply Now",
+      "fullTime": "Full Time",
+      "partTime": "Part Time",
+      "contract": "Contract",
+      "noOpenings": "No current openings. Check back soon!"
+    },
+    "application": {
+      "title": "Submit Your Application",
+      "success": "Application submitted successfully!",
+      "error": "Failed to submit application. Please try again."
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Services & Amenities",
+      "subtitle": "Everything you need for a comfortable shopping experience"
+    },
+    "sections": {
+      "title": "Our Services",
+      "subtitle": "We offer a comprehensive range of services to ensure your visit is comfortable, convenient, and memorable"
+    },
+    "hours": {
+      "title": "Operating Hours",
+      "subtitle": "Visit us during our extended hours"
+    },
+    "info": {
+      "support": {
+        "title": "Customer Support",
+        "description": "Our friendly team is always ready to help with any questions or concerns"
+      },
+      "location": {
+        "title": "Easy to Find",
+        "description": "Service desks and facilities are conveniently located throughout the mall"
+      },
+      "safety": {
+        "title": "Your Safety First",
+        "description": "We maintain the highest standards of safety and cleanliness for all visitors"
+      }
+    },
+    "cta": {
+      "title": "Need Assistance?",
+      "subtitle": "Our customer service team is here to help. Visit our information desk or contact us directly.",
+      "contactUs": "Contact Us",
+      "viewFAQs": "View FAQs"
+    },
+    "categories": {
+      "customer": "Customer Services",
+      "facilities": "Facilities",
+      "accessibility": "Accessibility",
+      "safety": "Safety & Security"
+    },
+    "list": {
+      "information": "Information Desk",
+      "parking": "Free Parking",
+      "elevators": "Elevators",
+      "escalators": "Escalators",
+      "disabledParking": "Disabled Parking",
+      "wifi": "Free WiFi",
+      "prayer": "Prayer Rooms",
+      "nursing": "Nursing Rooms",
+      "atm": "ATM Services",
+      "currency": "Currency Exchange",
+      "wheelchairs": "Wheelchair Access",
+      "strollers": "Stroller Rentals",
+      "lockers": "Storage Lockers",
+      "valet": "Valet Parking",
+      "giftCards": "Gift Cards",
+      "security": "24/7 Security",
+      "firstAid": "First Aid",
+      "lostFound": "Lost & Found",
+      "foodCourt": "Food Court"
+    },
+    "descriptions": {
+      "parking": "Spacious free parking areas with ample spaces for all visitors. Safe and well-lit parking facilities.",
+      "elevators": "Modern elevators connecting all floors for your convenience and accessibility.",
+      "escalators": "Multiple escalators throughout the mall for easy movement between floors.",
+      "disabledParking": "Designated parking spaces close to entrances for visitors with disabilities.",
+      "valet": "Premium valet parking service available at all main entrances. Let us park your car while you enjoy your visit.",
+      "giftCards": "Purchase Alamer Mall gift cards - the perfect gift for any occasion. Valid at all stores and restaurants.",
+      "wifi": "Complimentary high-speed WiFi throughout the mall. Stay connected while you shop and dine.",
+      "prayer": "Clean and comfortable prayer rooms for men and women located on multiple floors.",
+      "atm": "Multiple ATMs from major banks located throughout the mall for your convenience.",
+      "nursing": "Private, clean nursing and diaper changing facilities for parents with infants.",
+      "wheelchairs": "Wheelchair access, ramps, and elevators throughout the mall. Wheelchairs available for rent.",
+      "strollers": "Complimentary strollers available for families with young children.",
+      "lostFound": "Misplaced something? Visit our customer service desk for lost and found assistance.",
+      "foodCourt": "Spacious food court with diverse dining options and comfortable seating for families.",
+      "security": "24/7 security personnel and surveillance for your safety and peace of mind.",
+      "information": "Friendly staff ready to assist with directions, information, and any inquiries."
+    },
+    "features": {
+      "parking": {
+        "free": "Completely free",
+        "spacious": "2000+ spaces",
+        "security": "24/7 security"
+      },
+      "elevators": {
+        "floors": "All floors connected",
+        "modern": "Modern & fast",
+        "accessible": "Wheelchair accessible"
+      },
+      "escalators": {
+        "locations": "Multiple locations",
+        "maintained": "Well maintained",
+        "safe": "Safety certified"
+      },
+      "disabledParking": {
+        "designated": "Designated spaces",
+        "accessible": "Easy access",
+        "entrance": "Near entrances"
+      },
+      "valet": {
+        "daily": "Available daily",
+        "secure": "Secure parking",
+        "quick": "Quick service"
+      },
+      "giftCards": {
+        "denominations": "Multiple denominations",
+        "noExpiry": "No expiry date",
+        "reloadable": "Reloadable"
+      },
+      "wifi": {
+        "speed": "High-speed connection",
+        "coverage": "Mall-wide coverage",
+        "access": "Easy access"
+      },
+      "prayer": {
+        "separate": "Separate facilities",
+        "locations": "Multiple locations",
+        "maintained": "Well-maintained"
+      },
+      "atm": {
+        "access": "24/7 access",
+        "banks": "Multiple banks",
+        "locations": "Strategic locations"
+      },
+      "nursing": {
+        "private": "Private rooms",
+        "changing": "Changing stations",
+        "seating": "Comfortable seating"
+      },
+      "wheelchairs": {
+        "rental": "Wheelchair rental",
+        "restrooms": "Accessible restrooms",
+        "parking": "Priority parking"
+      },
+      "strollers": {
+        "free": "Free rental",
+        "clean": "Clean and safe",
+        "available": "Available at info desk"
+      },
+      "lostFound": {
+        "storage": "24-hour storage",
+        "claiming": "Easy claiming process",
+        "secure": "Secure storage"
+      },
+      "foodCourt": {
+        "cuisines": "Multiple cuisines",
+        "seating": "Family seating",
+        "playArea": "Kids play area nearby"
+      },
+      "security": {
+        "monitoring": "24/7 monitoring",
+        "staff": "Trained staff",
+        "emergency": "Emergency response"
+      },
+      "information": {
+        "multilingual": "Multilingual staff",
+        "central": "Central location",
+        "hours": "Extended hours"
+      }
+    }
+  },
+  "customerService": {
+    "hero": {
+      "title": "Customer Service",
+      "subtitle": "We're here to help you"
+    },
+    "services": {
+      "information": {
+        "title": "Information Desk",
+        "description": "Get assistance with directions, store information, and general inquiries from our friendly staff"
+      },
+      "guest": {
+        "title": "Guest Services",
+        "description": "We offer special services for our guests including wheelchair rental, stroller rental, and personal shopping assistance"
+      },
+      "giftCards": {
+        "title": "Gift Cards",
+        "description": "Purchase Alamer Mall gift cards - the perfect gift for any occasion, valid at all stores and restaurants"
+      },
+      "lostFound": {
+        "title": "Lost & Found",
+        "description": "Misplaced something? Visit our customer service desk for lost and found assistance with secure storage"
+      },
+      "vatRefund": {
+        "title": "VAT Refund",
+        "description": "International visitors can claim VAT refunds on eligible purchases. Ask our staff for assistance"
+      },
+      "security": {
+        "title": "Security",
+        "description": "24/7 security personnel and surveillance for your safety and peace of mind throughout the mall"
+      }
+    },
+    "contact": {
+      "title": "Contact Methods",
+      "phone": "Call Us",
+      "email": "Email Us",
+      "visit": "Visit Us",
+      "social": "Social Media"
+    },
+    "hours": {
+      "title": "Service Hours",
+      "description": "Our customer service team is available during mall hours"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "viewAll": "View All FAQs"
+    }
+  },
+  "faq": {
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find quick answers to common questions about visiting Alamer Mall"
+    },
+    "categories": {
+      "all": "All",
+      "general": "General",
+      "shopping": "Shopping",
+      "parking": "Parking",
+      "services": "Services"
+    },
+    "questions": {
+      "q1": {
+        "question": "What are the operating hours of Al-Amer Mall?",
+        "answer": "Al-Amer Mall operates Saturday through Thursday from 6:00 AM to 2:30 AM, and Friday from 9:00-10:30 AM and 1:00 PM to 2:30 AM. Operating hours may vary during seasons and holidays."
+      },
+      "q2": {
+        "question": "Is parking available?",
+        "answer": "Yes, Al-Amer Mall provides spacious and convenient parking facilities for all mall visitors."
+      },
+      "q3": {
+        "question": "Is Al-Amer Mall suitable for families?",
+        "answer": "Absolutely! The mall is designed to be a safe and comfortable destination for all family members."
+      },
+      "q4": {
+        "question": "Are there offers and discounts?",
+        "answer": "Yes, we offer seasonal promotions and ongoing discounts. Follow us on social media to learn about the latest offers."
+      },
+      "q5": {
+        "question": "How can I contact the mall management?",
+        "answer": "You can contact us through the Customer Service page or through the contact information provided on the website."
+      }
+    },
+    "noResults": "No Results Found",
+    "noResultsDescription": "Try adjusting your search or category filter",
+    "clearFilters": "Clear Filters",
+    "search": "Search for answers...",
+    "stillHaveQuestions": "Still Have Questions?",
+    "stillHaveQuestionsDesc": "Our customer service team is here to help you with any additional inquiries",
+    "callUs": "Call Us",
+    "callUsDesc": "Speak with our team directly",
+    "visitUs": "Visit Us",
+    "visitUsDesc": "Guest Services on Ground Floor",
+    "getDirections": "Get Directions",
+    "openingHours": "Opening Hours",
+    "openingHoursDesc": "We're here to serve you",
+    "openingHoursTime": "Sat-Thu: 6AM-2:30AM",
+    "needMoreHelp": "Need More Help?",
+    "needMoreHelpDesc": "Contact our customer service team for personalized assistance",
+    "contactCustomerService": "Contact Customer Service"
+  },
+  "privacyPolicy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "subtitle": "How we protect and use your information"
+    },
+    "lastUpdated": "Last updated"
+  },
+  "termsOfService": {
+    "hero": {
+      "title": "Terms of Service",
+      "subtitle": "Terms and conditions for using our services"
+    },
+    "lastUpdated": "Last updated"
+  }
+}

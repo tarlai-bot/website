@@ -1,0 +1,44 @@
+{
+  "labels": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "subject": "Subject",
+    "message": "Message",
+    "company": "Company Name",
+    "position": "Position",
+    "cv": "Upload CV",
+    "coverLetter": "Cover Letter"
+  },
+  "placeholders": {
+    "name": "Enter your full name",
+    "email": "Enter your email address",
+    "phone": "Enter your phone number",
+    "subject": "What is this regarding?",
+    "message": "Type your message here...",
+    "company": "Your company name",
+    "search": "Search..."
+  },
+  "buttons": {
+    "submit": "Submit",
+    "send": "Send Message",
+    "apply": "Apply Now",
+    "upload": "Upload File",
+    "clear": "Clear Form",
+    "cancel": "Cancel"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number",
+    "minLength": "Minimum {{count}} characters required",
+    "maxLength": "Maximum {{count}} characters allowed",
+    "fileSize": "File size must be less than {{size}}MB",
+    "fileType": "Only {{types}} files are allowed"
+  },
+  "messages": {
+    "success": "Your message has been sent successfully!",
+    "error": "Something went wrong. Please try again.",
+    "loading": "Sending your message..."
+  }
+}

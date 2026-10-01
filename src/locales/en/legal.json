@@ -1,0 +1,64 @@
+{
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "At Alamer Mall, we are committed to protecting your privacy and respecting your personal data.",
+    "printButton": "Print Policy",
+    "sections": {
+      "collection": {
+        "title": "Information Collection",
+        "content": "We may collect some information when you use our website, such as:",
+        "items": {
+          "name": "Name",
+          "phone": "Phone Number",
+          "email": "Email Address"
+        }
+      },
+      "usage": {
+        "title": "Data Usage",
+        "content": "Data is used for the following purposes:",
+        "items": {
+          "improve": "Improving our services and user experience",
+          "communicate": "Communicating with customers",
+          "offers": "Sending offers or updates (with consent)"
+        }
+      },
+      "protection": {
+        "title": "Information Protection",
+        "content": "We are committed to taking all necessary measures to protect your data and not share it with any third party in accordance with applicable regulations."
+      },
+      "consent": {
+        "title": "Consent",
+        "content": "By using the Alamer Mall website, you agree to this privacy policy."
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "intro": "Welcome to Alamer Mall website. By using this website, you agree to the following terms of service:",
+    "sections": {
+      "usage": {
+        "title": "Safe Website Usage",
+        "items": {
+          "legitimate": "The website must be used for legitimate purposes only",
+          "noMisuse": "Misuse of the website or its content is prohibited"
+        }
+      },
+      "content": {
+        "title": "Content",
+        "content": "All content displayed on the website is the property of Alamer Mall and may not be copied or used without prior permission."
+      },
+      "modifications": {
+        "title": "Modifications",
+        "content": "Alamer Mall reserves the right to modify or update the terms of service at any time without prior notice."
+      },
+      "disclaimer": {
+        "title": "Disclaimer of Liability",
+        "content": "Alamer Mall bears no responsibility for any damages resulting from the use of the website or reliance on its content."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "If you have any questions regarding the terms of service, please contact the customer service team."
+      }
+    }
+  }
+}

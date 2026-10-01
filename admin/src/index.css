@@ -1,0 +1,78 @@
+/* tailwindcss v3 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ejeAlamer Font - Custom Sans Serif for Arabic & English */
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Bold - 24 Jul 2016 - 2.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Bold - 24 Jul 2016 - 2.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ejeAlamer";
+  src: url("/fonts/ejeAlamer-Black - 24 Jul 2016 - 1.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "ejeAlamer", system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f9fafb;
+    font-family: "ejeAlamer", system-ui, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Rich Text Editor */
+.quill {
+  background: white;
+}
+
+.quill .ql-container {
+  min-height: 200px;
+  font-family: "ejeAlamer", system-ui, sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #44273a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5a3550;
+}
